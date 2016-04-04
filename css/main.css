@@ -1,0 +1,130 @@
+.main{
+	margin-top: 30px;
+	width: 1349px;
+}
+
+.mex-1{
+	width: 1030px;
+	height: 67px;
+	text-align: center;
+	background: url(../img/utitlebg.png) center bottom no-repeat;
+	margin: 20px auto;
+}
+.mex-1 h2{
+	font-size: 32px;
+	padding: 0 0 37px;
+}
+.mex-2{
+	width: 1030px;
+	margin: 20px auto;
+	overflow: hidden;
+}
+.mex-2 div{
+	display: inline-block;
+	float: left;
+	width: 230px;
+	height: 245px;
+	margin: 5px 56.5px;
+	text-align: center;
+}
+.mex-2 span{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	padding: 10px;
+}
+.mex-2 h3,h4{
+	font-weight: 400;
+	font-size: 18px;
+	margin: 30px 0;
+}
+.mex-2 p{
+	margin-top: 10px;
+	font-size: 14px;
+	color: #999;
+	line-height: 1.8;
+}
+.icon-1{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/pro1.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-2{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/pro2.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-3{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/pro5.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-4{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/pro4.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-5{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/pro6.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-6{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/mobile1.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-7{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/mobile2.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.icon-8{
+	display: inline-block;
+	width: 80px;
+	height: 70px;
+	background: url(../img/mobile3.png) center center no-repeat;
+	background-size: contain;
+	border: 1px;
+	border-radius: 100%;
+	box-shadow: 0px 10px 10px #2babcf;
+}
+.mex-2 span i:hover{
+	margin-top: 5px;
+	box-shadow: 0px 5px 10px #2babcf;
+}

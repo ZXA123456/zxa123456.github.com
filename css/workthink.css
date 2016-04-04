@@ -1,0 +1,57 @@
+.workthink{
+	margin-top: 30px;
+	width: 1349px;
+	overflow: hidden;
+	background-color: #2BABCF;
+	padding: 70px 0;
+}
+.workthink-1{
+	width: 1030px;
+	height: 67px;
+	text-align: center;
+	background: url(../img/utitlebg.png) center bottom no-repeat;
+	margin: 20px auto;
+}
+.workthink-1 h2{
+	font-size: 32px;
+	padding: 0 0 37px;
+}
+.workthink-2{
+	width: 1030px;
+	margin: 10px auto;
+}
+.workthink-2 .box{
+	display: inline-block;
+	float: left;
+	width: 313px;
+	margin: 0 15px;
+	
+}
+.workthink-2 .box .box-img{
+	display: inline-block;
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 0 2.5px;
+}
+.workthink-2 .box .box-img img{
+	width: 100%;
+	height: auto;
+}
+.workthink-2 .box .box-p{
+	display: inline-block;
+	float: left;
+	padding-top: 5px;
+}
+.workthink-2 .box .box-p p{
+	width: 198px;
+	height: 25px;
+	padding: 10px 20px;
+	background: #fff;
+	border: #fff;
+	border-radius: 0 30px 5px 30px;
+	box-shadow: 3px 3px 6px rgba(0,0,0,0.175);
+	font-size: 18px;
+	color: #333;
+	margin: 0 3px 10px;
+}
