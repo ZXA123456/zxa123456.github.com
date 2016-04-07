@@ -67,17 +67,17 @@
 	width: 1030px;
 	overflow: hidden;
 }
-.app div{
+.wood div{
 	display: inline-block;
 	margin: 20px;
 	float: left;
 }
-.management div{
+.metal div{
 	display: inline-block;
 	margin: 20px;
 	float: left;
 }
-.support div{
+.fantasy div{
 	display: inline-block;
 	margin: 20px;
 	float: left;

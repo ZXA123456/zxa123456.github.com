@@ -33,10 +33,15 @@
 	height: 70px;
 	padding: 10px;
 }
-.mex-2 h3,h4{
+.mex-2 h3{
 	font-weight: 400;
 	font-size: 18px;
 	margin: 30px 0;
+}
+.mex-2 h4{
+	font-weight: 400;
+	font-size: 18px;
+	margin: 15px 0;
 }
 .mex-2 p{
 	margin-top: 10px;
@@ -68,7 +73,7 @@
 	display: inline-block;
 	width: 80px;
 	height: 70px;
-	background: url(../img/pro5.png) center center no-repeat;
+	background: url(../img/pro3.png) center center no-repeat;
 	background-size: contain;
 	border: 1px;
 	border-radius: 100%;
@@ -88,7 +93,7 @@
 	display: inline-block;
 	width: 80px;
 	height: 70px;
-	background: url(../img/pro6.png) center center no-repeat;
+	background: url(../img/pro5.png) center center no-repeat;
 	background-size: contain;
 	border: 1px;
 	border-radius: 100%;
@@ -98,7 +103,7 @@
 	display: inline-block;
 	width: 80px;
 	height: 70px;
-	background: url(../img/mobile1.png) center center no-repeat;
+	background: url(../img/pro6.png) center center no-repeat;
 	background-size: contain;
 	border: 1px;
 	border-radius: 100%;
@@ -108,7 +113,7 @@
 	display: inline-block;
 	width: 80px;
 	height: 70px;
-	background: url(../img/mobile2.png) center center no-repeat;
+	background: url(../img/pro7.png) center center no-repeat;
 	background-size: contain;
 	border: 1px;
 	border-radius: 100%;
@@ -118,7 +123,7 @@
 	display: inline-block;
 	width: 80px;
 	height: 70px;
-	background: url(../img/mobile3.png) center center no-repeat;
+	background: url(../img/pro8.png) center center no-repeat;
 	background-size: contain;
 	border: 1px;
 	border-radius: 100%;
